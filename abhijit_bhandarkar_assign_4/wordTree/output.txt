@@ -1,0 +1,3 @@
+The total number of words: 98
+The total number of characters: 76
+The total number of distinct words: 492
